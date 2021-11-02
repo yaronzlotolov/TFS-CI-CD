@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+
+    <PackageId>Nuget-Demo</PackageId>
+    <Version>1.0.7</Version>
+    <Authors>Yaron Zlotolov</Authors>
+    <Description>Test project for Nuget and CI/CD</Description>
+    <IsPackable>true</IsPackable>
+    
+  </PropertyGroup>
+
+</Project>
+
+

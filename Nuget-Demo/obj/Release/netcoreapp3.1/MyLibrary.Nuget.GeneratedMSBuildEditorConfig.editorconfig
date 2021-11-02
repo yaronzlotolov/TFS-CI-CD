@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = MyLibrary.Nuget
+build_property.ProjectDir = C:\Users\yaron.IL\Source\Repos\DC-DSE-Nuget\MyLibrary.Nuget\
